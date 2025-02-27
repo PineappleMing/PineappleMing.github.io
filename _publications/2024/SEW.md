@@ -25,6 +25,6 @@ authors:
   - Zunlei Feng
 links:
   Paper: https://arxiv.org/pdf/2412.10853
-  # Code: https://github.com/luost26/academic-homepage
+  Code: https://github.com/PineappleMing/SEW
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

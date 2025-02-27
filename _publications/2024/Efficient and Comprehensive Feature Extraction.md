@@ -21,7 +21,7 @@ authors:
   - Wenjie Liang
   - Xiuming Zhang
 links:
-  Paper: https://arxiv.org/pdf/2412.10853
+  Paper: https://arxiv.org/pdf/2412.09521
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

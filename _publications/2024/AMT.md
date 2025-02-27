@@ -23,6 +23,6 @@ authors:
   - Zunlei Feng
 links:
   Paper: https://www.ijcai.org/proceedings/2024/0178.pdf
-  Code: https://github.com/luost26/academic-homepage
+  Code: https://github.com/PineappleMing/AMT-WSI
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
