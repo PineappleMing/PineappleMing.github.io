@@ -26,7 +26,7 @@ authors:
   - Cheng Lu 
   - Xiuming Zhang
 links:
-  # Paper: https://www.ijcai.org/proceedings/2024/0178.pdf
+  Paper: https://ieeexplore.ieee.org/document/10949171
   # Code: https://github.com/PineappleMing/AMT-WSI
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
