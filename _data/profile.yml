@@ -62,8 +62,12 @@ education:
 experience:
 - name: Bytedance
   logo: /assets/images/badges/bytedance.png
+  position: MLLM Algorithm Intern
+  date: Apr. 2025 - present
+- name: Bytedance
+  logo: /assets/images/badges/bytedance.png
   position: Advertising Algorithm Intern
-  date: Jul. 2024 - present
+  date: Jul. 2024 - Apr. 2025
 - name: Bytedance
   logo: /assets/images/badges/bytedance.png
   position: Front-end Development Intern
