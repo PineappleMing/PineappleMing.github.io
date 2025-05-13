@@ -21,7 +21,9 @@ github: PineappleMing
 # orcid: 0000-0000-0000-0000
 
 
-
+  # <p>
+  #   Currently, I'm also interning at the Douyin Advertising Department of <a href="https://bytedance.com/" target="_blank">ByteDance</a>, working on large-scale advertising algorithms. 
+  # </p>
 short_bio_text_justify: false
 short_bio: >-
   <p>
@@ -29,9 +31,7 @@ short_bio: >-
   My research focuses on Image Representation Learning and Multimodal Models. Prior to this, 
   I obtained my bachelor's degree in Energy and Power Engineering from the <a href="https://www.ustb.edu.cn/" target="_blank">University of Science and Technology Beijing</a>.
   </p>
-  <p>
-    Currently, I'm also interning at the Douyin Advertising Department of <a href="https://bytedance.com/" target="_blank">ByteDance</a>, working on large-scale advertising algorithms. 
-  </p>
+
   <p>
     My primary research areas include: <br>
     (1) <b>Multimodal Representation Learning</b>; <br>
